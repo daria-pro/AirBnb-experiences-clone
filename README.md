@@ -1,5 +1,4 @@
-# title(){return this.options.title||this.options.name}
-
+# Read.me
 Quick start:
 
 ```
